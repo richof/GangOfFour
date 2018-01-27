@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- Creational Patterns", "1- Creational Patterns", "{A76B2D77-FD2F-453D-8152-3E5EF3C4F7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoF.AbstractFactory", "src\GoF.AbstractFactory\GoF.AbstractFactory.csproj", "{8EF8EBD6-D031-40E6-A2B0-0F078F80B925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF8EBD6-D031-40E6-A2B0-0F078F80B925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF8EBD6-D031-40E6-A2B0-0F078F80B925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF8EBD6-D031-40E6-A2B0-0F078F80B925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF8EBD6-D031-40E6-A2B0-0F078F80B925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8EF8EBD6-D031-40E6-A2B0-0F078F80B925} = {A76B2D77-FD2F-453D-8152-3E5EF3C4F7AF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E7B5EF-4795-4B00-ADAA-126859FD605B}
+	EndGlobalSection
+EndGlobal

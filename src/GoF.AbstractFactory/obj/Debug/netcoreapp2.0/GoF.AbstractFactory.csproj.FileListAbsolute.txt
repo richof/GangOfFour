@@ -1,0 +1,11 @@
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\bin\Debug\netcoreapp2.0\GoF.AbstractFactory.deps.json
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\bin\Debug\netcoreapp2.0\GoF.AbstractFactory.runtimeconfig.json
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\bin\Debug\netcoreapp2.0\GoF.AbstractFactory.runtimeconfig.dev.json
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\bin\Debug\netcoreapp2.0\GoF.AbstractFactory.dll
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\bin\Debug\netcoreapp2.0\GoF.AbstractFactory.pdb
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\obj\Debug\netcoreapp2.0\GoF.AbstractFactory.csprojResolveAssemblyReference.cache
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\obj\Debug\netcoreapp2.0\GoF.AbstractFactory.csproj.CoreCompileInputs.cache
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\obj\Debug\netcoreapp2.0\GoF.AbstractFactory.AssemblyInfoInputs.cache
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\obj\Debug\netcoreapp2.0\GoF.AbstractFactory.AssemblyInfo.cs
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\obj\Debug\netcoreapp2.0\GoF.AbstractFactory.dll
+G:\Lab\c# Patterns\GoF\src\GoF.AbstractFactory\obj\Debug\netcoreapp2.0\GoF.AbstractFactory.pdb
