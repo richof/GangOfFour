@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "G:\\Lab\\Patterns\\GoF\\src\\GoF.AbstractFactory\\GoF.AbstractFactory.csproj",
-      "projectName": "GoF.AbstractFactory",
-      "projectPath": "G:\\Lab\\Patterns\\GoF\\src\\GoF.AbstractFactory\\GoF.AbstractFactory.csproj",
+      "projectUniqueName": "G:\\Lab\\Patterns\\GoF\\src\\GoF.Factory\\GoF.Factory.csproj",
+      "projectName": "GoF.Factory",
+      "projectPath": "G:\\Lab\\Patterns\\GoF\\src\\GoF.Factory\\GoF.Factory.csproj",
       "packagesPath": "C:\\Users\\richo\\.nuget\\packages\\",
-      "outputPath": "G:\\Lab\\Patterns\\GoF\\src\\GoF.AbstractFactory\\obj\\",
+      "outputPath": "G:\\Lab\\Patterns\\GoF\\src\\GoF.Factory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
