@@ -1,0 +1,11 @@
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\bin\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.deps.json
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\bin\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.runtimeconfig.json
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\bin\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.runtimeconfig.dev.json
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\bin\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.dll
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\bin\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.pdb
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\obj\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.csprojResolveAssemblyReference.cache
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\obj\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.csproj.CoreCompileInputs.cache
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\obj\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.AssemblyInfoInputs.cache
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\obj\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.AssemblyInfo.cs
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\obj\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.dll
+G:\Lab\Patterns\GoF\src\GoF.ChainOfResponsibility\obj\Debug\netcoreapp2.0\GoF.ChainOfResponsibility.pdb
