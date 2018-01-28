@@ -1,0 +1,11 @@
+G:\Lab\Patterns\GoF\src\GoF.Facade\bin\Debug\netcoreapp2.0\GoF.Facade.deps.json
+G:\Lab\Patterns\GoF\src\GoF.Facade\bin\Debug\netcoreapp2.0\GoF.Facade.runtimeconfig.json
+G:\Lab\Patterns\GoF\src\GoF.Facade\bin\Debug\netcoreapp2.0\GoF.Facade.runtimeconfig.dev.json
+G:\Lab\Patterns\GoF\src\GoF.Facade\bin\Debug\netcoreapp2.0\GoF.Facade.dll
+G:\Lab\Patterns\GoF\src\GoF.Facade\bin\Debug\netcoreapp2.0\GoF.Facade.pdb
+G:\Lab\Patterns\GoF\src\GoF.Facade\obj\Debug\netcoreapp2.0\GoF.Facade.csprojResolveAssemblyReference.cache
+G:\Lab\Patterns\GoF\src\GoF.Facade\obj\Debug\netcoreapp2.0\GoF.Facade.csproj.CoreCompileInputs.cache
+G:\Lab\Patterns\GoF\src\GoF.Facade\obj\Debug\netcoreapp2.0\GoF.Facade.AssemblyInfoInputs.cache
+G:\Lab\Patterns\GoF\src\GoF.Facade\obj\Debug\netcoreapp2.0\GoF.Facade.AssemblyInfo.cs
+G:\Lab\Patterns\GoF\src\GoF.Facade\obj\Debug\netcoreapp2.0\GoF.Facade.dll
+G:\Lab\Patterns\GoF\src\GoF.Facade\obj\Debug\netcoreapp2.0\GoF.Facade.pdb

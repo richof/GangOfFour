@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoF.AbstractFactory", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoF.Factory", "src\GoF.Factory\GoF.Factory.csproj", "{72FBFC13-3C61-4679-B6D8-DFAFAE991C18}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- Structural Patterns", "2- Structural Patterns", "{31CE3B7F-F429-40DA-8BDF-882D92B4B5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoF.Facade", "src\GoF.Facade\GoF.Facade.csproj", "{6CB937BD-E5A7-4CC7-BA9B-74850AEB8B6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{72FBFC13-3C61-4679-B6D8-DFAFAE991C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72FBFC13-3C61-4679-B6D8-DFAFAE991C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72FBFC13-3C61-4679-B6D8-DFAFAE991C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB937BD-E5A7-4CC7-BA9B-74850AEB8B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB937BD-E5A7-4CC7-BA9B-74850AEB8B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB937BD-E5A7-4CC7-BA9B-74850AEB8B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB937BD-E5A7-4CC7-BA9B-74850AEB8B6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8EF8EBD6-D031-40E6-A2B0-0F078F80B925} = {A76B2D77-FD2F-453D-8152-3E5EF3C4F7AF}
 		{72FBFC13-3C61-4679-B6D8-DFAFAE991C18} = {A76B2D77-FD2F-453D-8152-3E5EF3C4F7AF}
+		{6CB937BD-E5A7-4CC7-BA9B-74850AEB8B6E} = {31CE3B7F-F429-40DA-8BDF-882D92B4B5C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75E7B5EF-4795-4B00-ADAA-126859FD605B}
