@@ -9,7 +9,7 @@ namespace GoF.Facade
 
         public bool EhDescontraido(Vaga vaga)
         {
-            Console.WriteLine(" Validar ambiente para "+vaga.Nome);
+            Console.WriteLine(" Validar ambiente para  "+vaga.Nome);
             var rnd=new Random();
             var descontraido=rnd.Next(0, 1);
             return Convert.ToBoolean(descontraido);
