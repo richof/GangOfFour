@@ -15,7 +15,7 @@ namespace GoF.AbstractFactory
         public override void Supervisiona(Supervisionado supervisionado)
         {
            
-            Console.WriteLine(" O "+this.GetType().Name+" "+ Nome+" supervisiona à "+supervisionado.GetType().Name+" " + supervisionado.Nome);
+            Console.WriteLine(" O  "+this.GetType().Name+" "+ Nome+" supervisiona à "+supervisionado.GetType().Name+" " + supervisionado.Nome);
 
         }
 
