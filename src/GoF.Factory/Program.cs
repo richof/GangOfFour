@@ -12,7 +12,7 @@ namespace GoF.Factory
             int numeroInstrucao=0;
             foreach(var tarefa in tarefas)
             {
-                Console.WriteLine("  ");
+                Console.WriteLine("   ");
                 Console.WriteLine("Nome: "+tarefa.GetType().Name);
                 foreach(var instrucao in tarefa.Instrucoes)
                 {
