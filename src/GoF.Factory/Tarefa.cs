@@ -7,17 +7,15 @@ namespace GoF.Factory
     public abstract class Tarefa
     {
 
-        private List<Instrucao> _instrucoes=new List<Instrucao>();
+       // private List<Instrucao> _instrucoes=new List<Instrucao>();
         protected Tarefa()
         {
-            CriarTarefas();
+            Instrucoes=new List<Instrucao>();
+            AdicionarInstrucoes();
         }
-        public List<Instrucao> Instrucoes { get
-        {
-            return _instrucoes;
-        } }
-
-        public abstract void CriarTarefas();
+        
+        public List<Instrucao> Instrucoes { get; }
+        public abstract void AdicionarInstrucoes();
 
 
     }

@@ -5,7 +5,7 @@ namespace GoF.Factory
     public class TarefaInstanciarClasseEUsarMetodos : Tarefa
     {
 
-        public override void CriarTarefas()
+        public override void AdicionarInstrucoes()
         {
             Instrucoes.Add(new InstrucaoDeclararVariavel());
             Instrucoes.Add(new InstrucaoInstanciarClasse());

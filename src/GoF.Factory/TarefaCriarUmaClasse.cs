@@ -5,7 +5,7 @@ namespace GoF.Factory
     public class TarefaCriarUmaClasse:Tarefa
     {
 
-        public override void CriarTarefas()
+        public override void AdicionarInstrucoes()
         {
             Instrucoes.Add(new InstrucaoNomearClasse());
             Instrucoes.Add(new InstrucaoDeclararPropriedades());
