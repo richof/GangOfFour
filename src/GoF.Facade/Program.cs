@@ -7,6 +7,7 @@ namespace GoF.Facade
         static void Main(string[] args)
         {
             ValidadorDeVagas validador=new ValidadorDeVagas();
+
             var vaga=new Vaga("Desenvolvedor .NET");
             bool ehAplicavel=validador.PossoAplicar(vaga);
 
